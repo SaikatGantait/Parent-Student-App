@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105560510387",
+    "project_id": "parentstudentapp-rs1l7m",
+    "storage_bucket": "parentstudentapp-rs1l7m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105560510387:android:aa2bed8de9f5e5266b45c6",
+        "android_client_info": {
+          "package_name": "com.mycompany.parentstudentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSsPPTXmOhZBUZBw9l9JK61LdvNfQB_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
